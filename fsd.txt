@@ -1,0 +1,3 @@
+idle_move:
+1. move mouse from current point to any random point for specific
+   ip(time period) and ip(time interval) between clicks
