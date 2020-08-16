@@ -5,10 +5,10 @@ import threading as th
 from datetime import datetime, timedelta
 import pyautogui as pg
 
-pg.FAILSAFE = True #drag mouse to lhs top corner to exit script
+pg.FAILSAFE = False #disable: drag mouse to lhs top corner to exit script
 
 run_script = True
-def exit_code():
+def exit_code():  #press esc key to quit loop
     global run_script
     key_pressed = keyboard.read_key()
     if key_pressed == "esc":
