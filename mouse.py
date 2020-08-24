@@ -32,6 +32,13 @@ def idle_mouse(time_period):
             upper_interval = 299
         time_interval = randint(1, upper_interval) #dummy interval, later caliber it based on time_period
         print(time_interval)
+        for i in range(time_interval):
+            if run_script:
+                time.sleep(1)
+            else:
+                print("Exiting")
+                break
+
         time.sleep(time_interval) #time interval between each move from one position to another
         pg.moveTo(x,y)
 
