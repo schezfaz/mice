@@ -38,8 +38,6 @@ def idle_mouse(time_period):
             else:
                 print("Exiting")
                 break
-
-        time.sleep(time_interval) #time interval between each move from one position to another
         pg.moveTo(x,y)
 
 
