@@ -13,7 +13,8 @@ Mice helps you pretend to be online while you deal with that god aweful hangover
 
 
 ## :clap:  Supporters
-(https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/stargazers)
-(https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/network/members)
+https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/stargazers<br/>
+
+https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/network/members
 
 
