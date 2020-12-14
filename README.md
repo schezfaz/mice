@@ -13,6 +13,6 @@ Mice helps you pretend to be online while you deal with that god aweful hangover
 
 
 ## :clap:  Supporters
-[![Stargazers repo roster for @schezfaz/mice](https://github.com/schezfaz/mice)](https://github.com/schezfaz/mice/stargazers)
-[![Stargazers repo roster for @schezfaz/mice](https://github.com/schezfaz/mice)](https://github.com/schezfaz/mice/network/members)
+[![Stargazers repo roster for @schezfaz/mice](https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/stargazers)
+[![Stargazers repo roster for @schezfaz/mice](https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/network/members)
 
