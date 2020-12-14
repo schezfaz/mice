@@ -13,8 +13,8 @@ Mice helps you pretend to be online while you deal with that god aweful hangover
 
 
 ## :clap:  Supporters
-[![Stargazers repo roster for @schezfaz/mice](https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/stargazers)
-[![Stargazers repo roster for @schezfaz/mice](https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/network/members)
+[![Stargazers repo roster for @ee14b104/mice](https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/stargazers)
+[![Stargazers repo roster for @ee14b104/mice](https://github.com/ee14b104/mice)](https://github.com/ee14b104/mice/network/members)
 
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 <br/>
