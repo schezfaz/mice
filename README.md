@@ -8,6 +8,8 @@ Mice is a python script which moves your mouse at regular intervals to ensure th
 Mice helps you pretend to be online while you deal with that god aweful hangover in peace. <br/><br/><br/>
 
 ## Usage 
+* Ensure all packages mentioned in requirements.txt are installed
+* Just run mouse.py and leave it running in the background. The mouse is moved at random intervals within a max time of 5 mins, to a random point on the screen
 
 
 ## :clap:  Supporters
