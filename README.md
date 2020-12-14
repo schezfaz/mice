@@ -7,9 +7,7 @@ Mice is a python script which moves your mouse at regular intervals to ensure th
 
 Mice helps you pretend to be online while you deal with that god aweful hangover in peace. <br/><br/><br/>
 
-
-
-
+## Usage 
 
 
 ## :clap:  Supporters
