@@ -16,7 +16,7 @@ def exit_code():  #press esc key to quit loop
         run_script = False
 
 
-def idle_mouse(time_period):
+def idle_mouse(time_period, time_interval):
     th.Thread(target=exit_code, args=(), name='exit_code', daemon=True).start()
     width, height = pg.size()  #get screen resolution
     print(width,height)
@@ -25,20 +25,11 @@ def idle_mouse(time_period):
         current_position = pg.position()  # get current location of mouse
         print(current_position)
         x, y = randint(0, width - 1), randint(0, height - 1)
-        half = time_period/2
-        if time_period < 300:
-            upper_interval = half
-        else:
-            upper_interval = 299
-        time_interval = randint(1, upper_interval) #dummy interval, later caliber it based on time_period
+        time_interval = randint(1, 10) #dummy interval, later caliber it based on time_period
         print(time_interval)
-        for i in range(time_interval):
-            if run_script:
-                time.sleep(1)
-            else:
-                print("Exiting")
-                break
+        time.sleep(time_interval)
+        pg.press("shift")
         pg.moveTo(x,y)
 
 
-idle_mouse(6000)
+idle_mouse(6000,1)
